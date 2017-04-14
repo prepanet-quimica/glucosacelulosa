@@ -25,6 +25,7 @@ class RepasoViewController: UIViewController {
 		self.setNeedsStatusBarAppearanceUpdate()
 		
 		
+        
 		self.navigationController?.navigationBar.barTintColor = UIColor(red: 0.847, green: 0.847, blue: 0.847, alpha: 1)
 		self.navigationController?.navigationBar.tintColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1)
 		var titleTextAttributes = [String : AnyObject]();
