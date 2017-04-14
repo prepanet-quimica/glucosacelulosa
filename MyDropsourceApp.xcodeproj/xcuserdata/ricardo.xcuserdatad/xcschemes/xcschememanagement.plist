@@ -4,29 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-MyDropsourceApp.xcscheme</key>
+		<key>MyDropsourceApp.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>SCLAlertView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>AC44E4D9A90012A16634DCB745F4D34A</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C55D9D023F41FCF6FABD2FF2AD80E258</key>
+		<key>22B2B9861BF53DF90024D365</key>
 		<dict>
 			<key>primary</key>
 			<true/>
