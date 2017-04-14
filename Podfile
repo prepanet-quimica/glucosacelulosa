@@ -7,5 +7,7 @@ target 'MyDropsourceApp' do
 
   # Pods for MyDropsourceApp
 	pod 'SCLAlertView'
+    pod 'DIOCollectionView'
+
 
 end

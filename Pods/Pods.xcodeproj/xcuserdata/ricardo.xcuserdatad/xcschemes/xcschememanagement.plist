@@ -4,25 +4,40 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>DIOCollectionView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-MyDropsourceApp 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Pods-MyDropsourceApp.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 		<key>SCLAlertView.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>AC44E4D9A90012A16634DCB745F4D34A</key>
+		<key>20541D142C2E0842BE3383FF085FB940</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C55D9D023F41FCF6FABD2FF2AD80E258</key>
+		<key>44066028765E0F4CBEA8FCE88227285B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>69E43C53C58E110A003A1082E107983E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

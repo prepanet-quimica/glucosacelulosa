@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '69E43C53C58E110A003A1082E107983E'
-               BlueprintName = 'SCLAlertView'
+               BlueprintIdentifier = '20541D142C2E0842BE3383FF085FB940'
+               BlueprintName = 'DIOCollectionView'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'SCLAlertView.framework'>
+               BuildableName = 'DIOCollectionView.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
